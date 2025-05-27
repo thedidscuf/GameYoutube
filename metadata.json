@@ -1,0 +1,7 @@
+{
+  "name": "Youtube Studio Simulator (Español)",
+  "description": "Un simulador de creación de canales de YouTube donde puedes subir videos, ganar suscriptores, vistas, dinero y mejorar tu equipo. Totalmente en español.",
+  "version": "1.4.2 Public Beta",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
